@@ -1,0 +1,10 @@
+F:\Temp\PVG_C#\TP04_192149\bin\Debug\TP04_192149.exe.config
+F:\Temp\PVG_C#\TP04_192149\bin\Debug\TP04_192149.exe
+F:\Temp\PVG_C#\TP04_192149\bin\Debug\TP04_192149.pdb
+F:\Temp\PVG_C#\TP04_192149\obj\Debug\TP04_192149.csprojAssemblyReference.cache
+F:\Temp\PVG_C#\TP04_192149\obj\Debug\TP04_192149.Form1.resources
+F:\Temp\PVG_C#\TP04_192149\obj\Debug\TP04_192149.Properties.Resources.resources
+F:\Temp\PVG_C#\TP04_192149\obj\Debug\TP04_192149.csproj.GenerateResource.cache
+F:\Temp\PVG_C#\TP04_192149\obj\Debug\TP04_192149.csproj.CoreCompileInputs.cache
+F:\Temp\PVG_C#\TP04_192149\obj\Debug\TP04_192149.exe
+F:\Temp\PVG_C#\TP04_192149\obj\Debug\TP04_192149.pdb
